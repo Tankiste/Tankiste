@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tankiste.Tankiste" />
 
 <h1 align= "center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tankwa+Prince!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tankwa+Prince!;" />
 </h1>
 
 Computer Engineer passionate about Software Engineering, especially cross-platform development (web, mobile), I am sociable with a strong ability to learn and adapt as well as a great sense of collaborative work. I am constantly seeking new challenges to take on.
