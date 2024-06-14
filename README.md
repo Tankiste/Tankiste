@@ -35,8 +35,20 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,cpp,cs,c,javascript,python,php,html,css,bash,powershell,dotnet,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,cpp,cs,c,javascript,python,php,html,css,bash,powershell,dotnet" /><br>
   </a>
+</div>
+
+### 🧰 Frameworks, Platforms and Libraries
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,angular,react,bootstrap,selenium,jenkins,sonarqube,nexus,spring,django,jquery" /><br>
+  </a>
+</div>
+
+### 🗄️ Databases and Cloud Hosting
+
 
 
 ## Hi there 👋
