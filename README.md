@@ -33,17 +33,19 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 ### 👨‍💻 Programming languages
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,cpp,cs,c,javascript,python,php,html,css,bash,powershell,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,cpp,cs,c" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python,php,html,css,bash,powershell,dotnet" />
   </a>
 </div>
 
 ### 🧰 Frameworks, Platforms and Libraries
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,angular,react,bootstrap,selenium,jenkins,sonarqube,nexus,spring,django,jquery" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,angular,react,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,jenkins,spring,django,jquery" />
   </a>
 </div>
 
