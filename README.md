@@ -35,7 +35,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,cplus,csharp,c,yml,javascript,python,php,html,css,bash,powershell,dotnet,sql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,cpp,cs,c,javascript,python,php,html,css,bash,powershell,dotnet,sqlite" /><br>
   </a>
 
 
