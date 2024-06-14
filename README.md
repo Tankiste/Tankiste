@@ -46,8 +46,8 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,angular,react,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=selenium,jenkins,spring,django,jquery" />
+    <img src="https://skillicons.dev/icons?i=flutter,angular,react" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,jenkins,spring,django,jquery" />
   </a>
 </div>
 
@@ -56,11 +56,18 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,h2,firebase,hostinger,postgres,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,postgres,mongodb,heroku" /><br>
   </a>
 </div>
 
 
+### 💻 Softwares & development tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,figma,postman,git,trello,swagger,androidstudio,jmerise,visualparadigm,intellij,sublime,xcode,pycharm,github,gitlab,pip,npm,yarn,maven,gradle,notion,slack,lucidchart,phpmyadmin,pgadmin,junit,selenium,soapui,virtualbox,hyperv,tomcat" /><br>
+  </a>
+</div>
 
 ## Hi there 👋
 
