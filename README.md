@@ -31,6 +31,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 ## 🛠️ My Favorite tools
 
+
 ### 👨‍💻 Programming languages
 
 <div align="center">
@@ -39,6 +40,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
     <img src="https://skillicons.dev/icons?i=javascript,python,php,html,css,bash,powershell,dotnet" />
   </a>
 </div>
+
 
 ### 🧰 Frameworks, Platforms and Libraries
 
@@ -49,7 +51,14 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
   </a>
 </div>
 
+
 ### 🗄️ Databases and Cloud Hosting
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,h2,firebase,hostinger,postgres,mongodb," /><br>
+  </a>
+</div>
 
 
 
