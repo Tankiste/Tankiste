@@ -6,7 +6,7 @@
 
 Computer Engineer passionate about Software Engineering, especially cross-platform development (web, mobile), I am sociable with a strong ability to learn and adapt as well as a great sense of collaborative work. I am constantly seeking new challenges to take on.
 
-## More About Me
+## 💫 More About Me
 - 🎓 I'm currently pursuing my Master's in software engineering.
 - 📚 Passionate of innovation and problem solving, I enthusiastically take on new challenges, constantly adapting to the latest technologies in order to deliver customized, high-quality solutions.
 - 🌱 I’m currently learning more about software architecture, mobile app development and project management.
@@ -16,9 +16,10 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 ---
 
+
 ## 🌐 Connect with me
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/Tankiste" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -27,12 +28,15 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 </a>
 </div>
 
+
 ## 🛠️ My Favorite tools
 
 ### 👨‍💻 Programming languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,c++,c#,c,yaml,javascript,python,php,html,css,bash,powershell,dotnet,sql" /><br>
+  </a>
 
 
 ## Hi there 👋
