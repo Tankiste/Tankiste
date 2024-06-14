@@ -65,7 +65,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,figma,postman,git,trello,swagger,androidstudio,jmerise,visualparadigm,intellij,sublime,xcode,pycharm,github,gitlab,pip,npm,yarn,maven,gradle,notion,slack,lucidchart,phpmyadmin,pgadmin,junit,selenium,soapui,virtualbox,hyperv,tomcat" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,figma,postman,git,androidstudio,sublime,pycharm,github,gitlab,npm,yarn,maven,gradle,notion,selenium" /><br>
   </a>
 </div>
 
