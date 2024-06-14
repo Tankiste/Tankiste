@@ -65,9 +65,15 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,figma,postman,git,androidstudio,sublime,pycharm,github,gitlab,npm,yarn,maven,gradle,notion,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,figma,postman,git,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=sublime,pycharm,github,gitlab,npm,yarn,maven,gradle,notion,selenium" />
   </a>
 </div>
+
+
+### 📊 GitHub Stats
+
+
 
 ## Hi there 👋
 
