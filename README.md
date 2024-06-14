@@ -22,12 +22,17 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 <a href="https://github.com/Tankiste" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-tankwa-58b30a256/)](https://www.linkedin.com/in/prince-tankwa-58b30a256/)
+<a href="https://in.linkedin.com/in/Prince Tankwa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
 </div>
 
 ## 🛠️ My Favorite tools
 
 ### 👨‍💻 Programming languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Hi there 👋
