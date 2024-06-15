@@ -27,7 +27,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 </div>
-
+<br>
 
 ## 🛠️ My Favorite tools
 
@@ -40,7 +40,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
     <img src="https://skillicons.dev/icons?i=javascript,python,php,html,css,bash,powershell,dotnet" />
   </a>
 </div>
-
+<br>
 
 ### 🧰 Frameworks, Platforms and Libraries
 
@@ -50,7 +50,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
     <img src="https://skillicons.dev/icons?i=bootstrap,jenkins,spring,django,jquery" />
   </a>
 </div>
-
+<br>
 
 ### 🗄️ Databases and Cloud Hosting
 
@@ -59,7 +59,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,postgres,mongodb,heroku" /><br>
   </a>
 </div>
-
+<br>
 
 ### 💻 Softwares & development tools
 
@@ -69,6 +69,12 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
     <img src="https://skillicons.dev/icons?i=sublime,pycharm,github,gitlab,npm,yarn,maven,gradle,notion,selenium" />
   </a>
 </div>
+
+## ⚡Contributions
+
+<br>
+<img alt="snake eating my contributions" src=https://raw.githubusercontent.com/Tankiste/Tankiste/output/github-contribution-grid-snake.svg" />
+</br>
 
 
 ### 📊 GitHub Stats
