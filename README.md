@@ -72,12 +72,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 ### ⚡Contributions
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tankiste/Tankiste/output/github-contribution-grid-snake.svg" />
-    
-  <br/><br/><br/>
-</div>
+
 
 
 
