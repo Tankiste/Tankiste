@@ -29,8 +29,8 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 </div>
 <br>
 
-## 🛠️ My Favorite tools
 
+## 🛠️ My Favorite tools
 
 ### 👨‍💻 Programming languages
 
@@ -68,24 +68,44 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,figma,postman,git,androidstudio" /><br>
     <img src="https://skillicons.dev/icons?i=sublime,pycharm,github,gitlab,npm,yarn,maven,gradle,notion,selenium" />
   </a>
+  <br/><br/><br/>
 </div>
 
-### ⚡Contributions
+## ⚡Contributions
 
 <div align="center">
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tankiste/Tankiste/output/github-contribution-grid-snake.svg" />
     
   <br/><br/><br/>
 </div>
 
 
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tankiste&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tankiste&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" /><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tankiste&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <br/><br/><br/>
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tankiste&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<br/><br/>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab:)">
+</h3>
+
+<br/>
 
 
-
-## Hi there 👋
 
 <!--
 **Tankiste/Tankiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
