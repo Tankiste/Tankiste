@@ -37,7 +37,7 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,dart,kotlin,cpp,cs,c" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,python,php,html,css,bash,powershell,dotnet" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,php,html,css,bash,powershell" />
   </a>
 </div>
 <br>
@@ -46,8 +46,8 @@ Computer Engineer passionate about Software Engineering, especially cross-platfo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,angular,react" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,jenkins,spring,django,jquery" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,spring,django,jquery" />
   </a>
 </div>
 <br>
